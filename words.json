@@ -1,0 +1,35 @@
+{
+  "animals": ["elephant", "giraffe", "kangaroo", "dolphin", "crocodile", "penguin", "chameleon", "octopus", "lion", "tiger", "bear", "wolf", "zebra", "rhino", "hippopotamus", "fox", "eagle", "owl"],
+  "sports": ["football", "basketball", "tennis", "badminton", "volleyball", "rugby", "cricket", "swimming", "baseball", "hockey", "golf", "cycling", "boxing", "wrestling", "karate", "surfing", "skiing", "archery"],
+  "fruits": ["apple", "banana", "strawberry", "pineapple", "watermelon", "grapefruit", "blueberry", "kiwi", "mango", "peach", "cherry", "plum", "apricot", "fig", "pear", "pomegranate", "coconut", "lemon"],
+  "cities": ["London", "Tokyo", "New York", "Dubai", "Sydney", "Moscow", "Berlin", "Toronto", "Paris", "Rome", "Madrid", "Beijing", "Seoul", "Buenos Aires", "Cairo", "Bangkok", "Amsterdam", "Lisbon"],
+  "space": ["galaxy", "nebula", "supernova", "asteroid", "black hole", "meteor", "cosmos", "satellite", "comet", "star", "orbit", "gravity", "eclipse", "exoplanet", "quasar", "dark matter", "light year", "planet"],
+  "music": ["Beethoven", "Mozart", "Chopin", "Guitar", "Violin", "Piano", "Drums", "Orchestra", "Jazz", "Rock", "Hip-Hop", "Opera", "Saxophone", "Flute", "Cello", "Trumpet", "Harp", "Bass"],
+  "science": ["gravity", "quantum", "molecule", "neutron", "photosynthesis", "atom", "telescope", "bacteria", "virus", "DNA", "enzyme", "evolution", "magnetism", "chemical", "experiment", "theory", "genetics", "hypothesis"],
+  "mythology": ["Zeus", "Hercules", "Thor", "Anubis", "Odin", "Medusa", "Poseidon", "Achilles", "Hades", "Ares", "Apollo", "Athena", "Hera", "Loki", "Freya", "Ra", "Osiris", "Persephone"],
+  "brands": ["Nike", "Adidas", "Samsung", "Apple", "Tesla", "Coca Cola", "Amazon", "Sony", "Microsoft", "Google", "Honda", "Ford", "Pepsi", "Lego", "Chanel", "Gucci", "BMW", "Nestle"],
+  "vehicles": ["airplane", "motorcycle", "submarine", "spaceship", "bicycle", "helicopter", "scooter", "yacht", "car", "bus", "train", "tram", "truck", "van", "jeep", "hoverboard", "tank", "segway"],
+  "countries": ["tunisia","USA", "China", "India", "Germany", "Brazil", "Australia", "Canada", "Russia", "Japan", "South Africa"],
+  "food": ["pizza", "burger", "sushi", "pasta", "salad", "sandwich", "soup", "steak", "curry", "ice cream"],
+  "technology": ["AI", "robotics", "cloud", "blockchain", "IoT","5G", "VR", "AR", "cybersecurity", "data science"],
+  "nature": ["forest", "mountain", "ocean", "desert", "lake", "river", "waterfall", "valley", "island", "beach"],
+  "history": ["war", "empire", "king", "queen", "revolution", "ancient", "medieval", "victory", "invention", "battle"],
+  "literature": ["novel", "poem", "story", "author", "fiction", "nonfiction", "drama", "comedy", "tragedy", "play"],
+  "languages": ["English", "Spanish", "French", "German", "Chinese", "Italian", "Japanese", "Portuguese", "Arabic", "Russian"],
+  "movies": ["Inception", "Titanic", "Avatar", "The Dark Knight", "Forrest Gump", "The Godfather", "Star Wars", "The Shawshank Redemption", "Gladiator", "Jurassic Park"],
+  "vegetables": ["carrot", "potato", "tomato", "onion", "lettuce", "spinach", "cucumber", "broccoli", "garlic", "celery"],
+  "pets": ["dog", "cat", "hamster", "fish", "parrot", "rabbit", "turtle", "snake", "gerbil", "guinea pig"],
+  "art": ["painting", "sculpture", "mosaic", "drawing", "collage", "installation", "portrait", "abstract", "surrealism", "impressionism"],
+  "computers": ["laptop", "desktop", "tablet", "server", "hard drive", "processor", "RAM", "monitor", "keyboard", "mouse"],
+  "oceans": ["Atlantic", "Pacific", "Indian", "Southern", "Arctic", "Coral", "Baltic", "Caribbean", "Red Sea", "Mediterranean"],
+  "clothing": ["shirt", "jeans", "jacket", "sweater", "coat", "dress", "skirt", "hat", "scarf", "gloves"],
+  "alphanumeric": ["A1", "B2", "C3", "D4", "E5", "F6", "G7", "H8", "I9", "J10", "K11", "L12", "M13", "N14", "O15", "P16", "Q17", "R18"],
+  "chemistry": ["atom", "molecule", "reaction", "solvent", "acid", "base", "catalyst", "element", "compound", "mixture"],
+  "physics": ["force", "energy", "motion", "acceleration", "velocity", "mass", "gravity", "thermodynamics", "optics", "electricity"],
+  "medicines": ["aspirin", "paracetamol", "ibuprofen", "antibiotic", "vaccine", "insulin", "penicillin", "antiseptic", "antidepressant", "sedative"]
+
+}
+
+
+
+  
